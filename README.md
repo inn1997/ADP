@@ -1,4 +1,4 @@
-# Androidprograming_JaeinPark
+# Androidprograming_Parkjaein
 
 ## 전역 설정 정보 조회
 git config - -global - -list
