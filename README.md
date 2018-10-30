@@ -7,7 +7,7 @@
 >```
 git config --global --unset-all user.email
 git config --global --unset-all user.name
->```
+```
 ## 새로운 저장소 초기화하기
 >`git init`
 
