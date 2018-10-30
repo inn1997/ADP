@@ -4,9 +4,9 @@
 >`git config - -global - -list`
 
 ## 전역 설정 정보 삭제시키기
->`git config --global --unset-all user.email`
+>```git config --global --unset-all user.email
 
->`git config --global --unset-all user.name`
+>`git config --global --unset-all user.name```
 
 ## 새로운 저장소 초기화하기
 >`git init`
